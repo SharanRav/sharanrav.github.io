@@ -20,7 +20,7 @@ repository               : "sharanrav/sharanrav.github.io" # UPDATE THIS to your
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
   # Biographic information
-  avatar           : "profile.png" # Upload a photo named 'profile.png' to your /images/ folder!
+  avatar           : "sharan R.jpg" # Upload a photo named 'profile.png' to your /images/ folder!
   name             : "Sharan R. Ravigopal, Ph.D."
   pronouns         : # "he/him" 
   bio              : "Robotics Controls Engineering Lead working on *Autonomous Surgical Intervention* and *Real-Time Perception*. Ph.D. from Georgia Tech."
