@@ -1,8 +1,7 @@
 ---
-layout: about
+layout: page
 title: "About Me"
-permalink: /
-author_profile: true
+permalink: /about/
 ---
 
 I am a Robotics Controls Lead and a Georgia Tech Ph.D. Robotics grad specializing in **Autonomous Surgical Intervention**, **Physical AI**, and **Real-time Control**. 
@@ -18,3 +17,5 @@ My research bridges the gap between high-level AI perception and low-level mecha
 * **[2025]** Graduated from Robotics PhD program at Georgia Tech
 * **[2024]** Honored as a **Topping Fellow** at Georgia Tech (Top 5% of CoE PhDs by impact).
 * **[2023]** Invited Talk at **Harvard Medical School** (NCIGT) on Surgical Intelligence.
+
+**Email:** [firstname].[lastname][at]gmail.com  
