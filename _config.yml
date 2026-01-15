@@ -13,9 +13,9 @@ title                    : "Sharan R. Ravigopal, Ph.D."
 title_separator          : "-"
 name                     : &name "Sharan R. Ravigopal"
 description              : &description "Robotics Controls Lead | Georgia Tech PhD | Surgical AI & Embodied Intelligence"
-url                      : "https://sharan-ravigopal.github.io" # UPDATE THIS to your actual GitHub Pages URL
+url                      : "https://sharanrav.github.io" # UPDATE THIS to your actual GitHub Pages URL
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sharan-ravigopal/sharan-ravigopal.github.io" # UPDATE THIS to your actual repo name
+repository               : "sharanrav/sharanrav.github.io" # UPDATE THIS to your actual repo name
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
