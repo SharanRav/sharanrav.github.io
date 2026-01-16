@@ -4,7 +4,7 @@ collection: teaching
 type: "Mentorship"
 permalink: /teaching/2024-lumiere
 venue: "Lumiere Education"
-date: 2024
+date: 2024-11-30
 location: "Atlanta, GA"
 ---
 • Guided several high school students through independent research projects in robotics, machine learning, and biomedical engineering projects, providing mentorship on research design, methodology, and analysis.
