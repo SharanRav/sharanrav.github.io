@@ -22,3 +22,12 @@ My research bridges the gap between high-level AI perception and low-level mecha
 * **[2023]** Invited Talk at **Harvard Medical School** (NCIGT) on Surgical Intelligence.
 
 **Email:** [firstname].[lastname][at]gmail.com  
+
+### Selected Research & Media
+| Autonomous Navigation | Surgical Robotics (Patent GTRC/9166) |
+| :---: | :---: |
+| ![UAV Control](/images/uav_demo.gif) | ![Surgical Robot](/images/guidewire_demo.gif) |
+| **Real-time Edge-AI Control** | **Guidewire for Radial Access Neurosurgery** |
+| Deploying GPU-optimized models on edge devices for autonomous navigation of micro-scale robots for minimally invasive surgery. |
+
+[View all Publications](/publications/) | [View Research Portfolio](/portfolio/)
