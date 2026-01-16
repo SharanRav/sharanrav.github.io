@@ -28,11 +28,16 @@ My research bridges the gap between high-level AI perception and low-level mecha
 
 ### Selected Research & Media
 
-| **Autonomous Navigation** | **Surgical Robotics (Patent GTRC/9166)** |
-| :---: | :---: |
-| ![UAV Control](/images/uav_demo.png) | ![Surgical Robot](/images/GWPenny.gif) |
-| **Real-time Edge-AI Control** | **Guidewire for Radial Access Neurosurgery** |
-| Deploying GPU-optimized models on edge devices for autonomous navigation. | Autonomous navigation of micro-scale robots for minimally invasive surgery. |
+| **Raphe mPhibr: UAV/Drones** |
+| ![UAV Control](/images/uav_demo.png) | 
+| **Surgical Robotic Guidewires** |
+|![Surgical Robot](/images/GWPenny.gif) |
+| **Autonomous Navigation** |
+|![AutoNav](/images/GIFGuidewireNavigation.gif) |
+| **Mitral Valve Robot** |
+| ![MVRobot](/images/MVRobotGIF.gif) |
+| **Guidewire for Radial Access Neurosurgery** |
+|![Radaccess](/images/radaccessGWrobo.png)  |
 
 <br>
 
