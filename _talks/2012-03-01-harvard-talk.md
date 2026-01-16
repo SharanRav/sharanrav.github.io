@@ -8,4 +8,4 @@ date: 2023-11-01
 location: "Cambridge, MA, USA"
 ---
 
-**Harvard Medical School** National Image Guided Therapy Workshop : C-am fluoroscopy-guided Pose Estimation and Path Planning of Surgical Robots
+**Harvard Medical School:** National Image Guided Therapy Workshop : C-am fluoroscopy-guided Pose Estimation and Path Planning of Surgical Robots
