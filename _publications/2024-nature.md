@@ -4,6 +4,9 @@ collection: publications
 permalink: /publication/2024-nature
 excerpt: 'This work introduces a novel design of a robotic guidewire with optimized design parameters based on empirical and mechanics analysis along with teleoperated validation.'
 date: 2024-11-12
+category: manuscripts
+header:
+  teaser: "paper-preview-2024-nature.png"
 venue: 'Nature Portfolio Scientific Reports'
 paperurl: 'https://www.nature.com/articles/s41598-024-75871-7'
 citation: 'Ravigopal, S.R., Konda, R., Malhotra, N. et al. Design, analysis, and demonstration of the COAST guidewire robot with middle tube rotation for endovascular interventions. Sci Rep 14, 27629 (2024). https://doi.org/10.1038/s41598-024-75871-7'
