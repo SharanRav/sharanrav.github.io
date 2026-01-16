@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Robotics and AI, Georgia Institute of Technology, 2025
-* M.S. in Electrical Engineering, Georgia Institute of Technology
+* M.S in Electrical Engineering, Georgia Institute of Technology
 * M.S in Mechanical Engineering, Georgia Institute of Technology
 * B.S in Mechanical Engineering, Computer Science, Georgia Institute of Technology
 
