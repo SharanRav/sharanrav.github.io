@@ -2,6 +2,7 @@
 layout: page
 title: "About Me"
 permalink: /
+author_profile:true
 ---
 
 I am a Robotics Controls Lead and a Georgia Tech Ph.D. Robotics grad specializing in **Autonomous Surgical Intervention**, **Physical AI**, and **Real-time Control**. 
