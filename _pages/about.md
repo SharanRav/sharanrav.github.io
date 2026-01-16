@@ -1,10 +1,11 @@
 ---
-layout: home
-title: "About Me"
-permalink: /about/
+permalink: /
+title: "Sharan Ravigopal"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
-
 I am a Robotics Controls Lead and a Georgia Tech Ph.D. Robotics grad specializing in **Autonomous Surgical Intervention**, **Physical AI**, and **Real-time Control**. 
 
 My research bridges the gap between high-level AI perception and low-level mechanical control, specifically for micro-scale medical robotics. Currently, I lead a multidisciplinary engineering team in industry, deploying **GPU-accelerated perception models** and **autonomous navigation systems** on Edge-AI hardware.
