@@ -4,6 +4,9 @@ collection: publications
 permalink: /publication/2022-ieeeral
 excerpt: 'This work introduces 3D Reconstruction Algorithm for C-arm Fluoroscopy and a novel 3D Path-planning algorithm with open-loop control validation.'
 date: 2022-09-19
+category: manuscripts
+header:
+  teaser: "paper-preview-2022-ieeeral.png"
 venue: 'IEEE Robotics and Automation Letters'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9894691/'
 citation: 'S. R. Ravigopal, T. A. Brumfiel, A. Sarma and J. P. Desai, "Fluoroscopic Image-Based 3-D Environment Reconstruction and Automated Path Planning for a Robotically Steerable Guidewire," in IEEE Robotics and Automation Letters, vol. 7, no. 4, pp. 11918-11925, Oct. 2022, doi: 10.1109/LRA.2022.3207568.'
