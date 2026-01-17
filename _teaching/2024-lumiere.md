@@ -1,13 +1,14 @@
 ---
 title: "Robotics Research Mentor"
 collection: teaching
-type: "Mentorship"
+type: "Research Mentor"
 permalink: /teaching/2024-lumiere
 venue: "Lumiere Education"
-date: 2024-11-30
-location: "Atlanta, GA"
+date: 2025-12-31
+location: "Remote / Atlanta, GA"
 ---
-• Guided several high school students through independent research projects in robotics, machine learning, and biomedical engineering projects, providing mentorship on research design, methodology, and analysis.  
-• Facilitated regular, weekly meetings to review progress, offer feedback, and support students in developing critical thinking and problem-solving skills.  
- • Assisted students in preparing research papers and presentations, some of which were submitted to academic competitions or high school-journals, and plans to submit to conference poster sessions.  
- • Fostered a collaborative and inclusive learning environment, adapting mentoring approaches to diverse student backgrounds and interests and demonstrated strong communication and organizational skills by managing multiple mentees and project timelines.
+
+* **Independent Research Guidance:** Mentored high-achieving students through the full lifecycle of independent research projects in **Machine Learning**, **Robotics**, and **Biomedical Engineering**.
+* **Methodological Supervision:** Provided expert guidance on research design, sensor fusion methodology, and statistical analysis for autonomous systems.
+* **Publication Support:** Assisted mentees in drafting and refining technical manuscripts for submission to high-school journals and international science competitions (ISEF, JSHS).
+* **Project Management:** Managed multiple project timelines simultaneously, fostering a professional environment that emphasized critical thinking and hardware-software integration.
