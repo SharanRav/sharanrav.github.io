@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Robotics Controls Lead and a Georgia Tech Ph.D. Robotics grad specializing in **Autonomous Surgical Intervention**, **Physical AI**, and **Real-time Control**. 
 
-My research bridges the gap between high-level AI perception and low-level mechanical control, specifically for **micro-scale medical robotics**. Currently, I lead a multidisciplinary engineering team in industry, deploying **GPU-accelerated perception models** and **autonomous navigation systems** on Edge-AI hardware for **UAVs**.
+My research bridges the gap between high-level AI perception and low-level mechanical control, specifically for **micro-scale medical robotics**. Currently, I lead a multidisciplinary engineering team in industry, deploying **GPU-accelerated perception models** and **autonomous navigation systems** on Edge-AI hardware for **UAVs**. I'm passionate about translating surgical robotics from lab to clinical practice
 
 I received my PhD in Robotics from Georgia Tech advised by Jaydev P. Desai, and my Masters' in Electrical and Mechanical Engineering and a Bachelor's in Mechanical Engineering and Computer Science from the same university.
 
