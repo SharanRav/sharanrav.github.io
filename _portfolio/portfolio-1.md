@@ -1,7 +1,21 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "COAST Guidewire Robot"
+excerpt: "Coaxially Aligned STeerable Guidewire with Integrated Shape and Force Sensing"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+### Project Overview
+The **COAST Guidewire** is the `world's smallest` tendon-driven robotic guidewire designed for high-precision endovascular interventions.  This project integrates real-time shape sensing and force feedback with fiber bragg Grating sensors to improve localization and navigation in complex vascular networks.
+
+### Robot Demonstration
+Below is the demonstration presented at the **Hamlyn Symposium on Medical Robotics**.
+
+<video width="100%">
+  <source src="/images/COaxially%20Aligned%20STeerable%20(COAST)%20Guidewire%20Robot%20withIntegrated%20Shape%20and%20Force%20Sensing%20-%20Hamlyn%20Symposium%20on%20Medical%20Robotics%20(720p,%20h264,%20youtube).mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+### Key Features
+* **Novel Design:** Novel steerable mechanism for reducing axial perforation.
+* **Integrated Sensing:** Real-time force and shape feedback for the surgeons and control systems.
+* **Clinical Impact:** Aimed at reducing radiation exposure, improving safety and reducing procedure time in neurosurgery
